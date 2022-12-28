@@ -1,0 +1,2338 @@
+{
+  "catalog": [
+    {
+      "collection": "Studio Albums",
+      "albums": [
+        {
+          "albumTitle": "Taylor Swift",
+          "releaseDate": "2006-10-24",
+          "label": "Big Machine Records",
+          "taylorOwns": false,
+          "tracklist": [
+            {
+              "songTitle": "Tim McGraw",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Picture to Burn",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Teardrops on My Guitar",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "A Place in This World",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Cold as You",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Outside",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Tied Together with a Smile",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Stay Beautiful",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Should've Said No",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Mary's Song (Oh My My My)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Our Song",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I'm Only Me When I'm with You",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Invisible",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "A Perfectly Good Heart",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Heart ?",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Fearless",
+          "releaseDate": "2008-11-11",
+          "label": "Big Machine Records",
+          "taylorOwns": false,
+          "tracklist": [
+            {
+              "songTitle": "Fearless",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Fifteen",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Love Story",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Hey Stephen",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "White Horse",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You Belong with Me",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Breathe (feat. Colbie Caillat)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Tell Me Why",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You're Not Sorry",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Way I Loved You",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Forever & Always",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Best Day",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Change",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Jump Then Fall",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Untouchable",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Forever & Always (piano version)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Come In with the Rain",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Superstar",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Other Side of the Door",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Speak Now",
+          "releaseDate": "2010-10-25",
+          "label": "Big Machine Records",
+          "taylorOwns": false,
+          "tracklist": [
+            {
+              "songTitle": "Mine",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Sparks Fly",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Back to December",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Speak Now",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Dear John",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Mean",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Story of Us",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Never Grow Up",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Enchanted",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Better than Revenge",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Innocent",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Haunted",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Last Kiss",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Long Live",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Ours",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "If This Was a Movie",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Superman",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Back to December (acoustic)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Haunted (acoustic)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Mine (pop mix)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Red",
+          "releaseDate": "2012-10-22",
+          "label": "Big Machine Records",
+          "taylorOwns": false,
+          "tracklist": [
+            {
+              "songTitle": "State of Grace",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Red",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Treacherous",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Knew You Were Trouble",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "All Too Well",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "22",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Almost Do",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "We are Never Ever Getting Back Together",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Stay Stay Stay",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Last Time (feat. Gary Lightbody)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Holy Ground",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Sad Beautiful Tragic",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Lucky One",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Everything Has Changed (feat. Ed Sheeran)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Starlight",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Begin Again",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Moment I Knew",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Come Back... Be Here",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Girl at Home",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Treacherous (original demo recording)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Red (original demo recording)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "State of Grace (acoustic version)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "1989",
+          "releaseDate": "2014-10-27",
+          "label": "Big Machine Records",
+          "taylorOwns": false,
+          "tracklist": [
+            {
+              "songTitle": "Welcome to New York",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Blank Space",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Style",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Out of the Woods",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "All You Had to Do Was Stay",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Shake It Off",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Wish You Would",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Bad Blood",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Wildest Dreams",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "How You Get the Girl",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "This Love",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Know Places",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Clean",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Wonderland",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You Are in Love",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "New Romantics",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Reputation",
+          "releaseDate": "2017-11-10",
+          "label": "Big Machine Records",
+          "taylorOwns": false,
+          "tracklist": [
+            {
+              "songTitle": "...Ready For It?",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "End Game (feat. Ed Sheeran and Future)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Did Something Bad",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Don't Blame Me",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Delicate",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Look What You Made Me Do",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "So It Goes...",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Gorgeous",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Getaway Car",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "King of my Heart",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Dancing with Our Hands Tied",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Dress",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "This Is Why We Can't Have Nice Things",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Call It What You Want",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "New Year's Day",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Lover",
+          "releaseDate": "2019-08-23",
+          "label": "Republic Records",
+          "taylorOwns": true,
+          "tracklist": [
+            {
+              "songTitle": "I Forgot That You Existed",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Cruel Summer",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Lover",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Man",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Archer",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Think He Knows",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Miss Americana & the Heartbreak Prince",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Paper Rings",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Cornelia Street",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Death by a Thousand Cuts",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "London Boy",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Soon You'll Get Better (feat. The Chicks)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "False God",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You Need to Calm Down",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Afterglow",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Me! (feat. Brendon Urie)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "It's Nice to Have a Friend",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Daylight",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Folklore",
+          "releaseDate": "2020-07-24",
+          "label": "Republic Records",
+          "taylorOwns": true,
+          "tracklist": [
+            {
+              "songTitle": "The 1",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Cardigan",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Last Great American Dynasty",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Exile (feat. Bon Iver)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "My Tears Richochet",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Mirrorball",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Seven",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "August",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "This is Me Trying",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Illicit Affairs",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Invisible String",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Mad Woman",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Epiphany",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Betty",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Peace",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Hoax",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Lakes",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Evermore",
+          "releaseDate": "2020-12-11",
+          "label": "Republic Records",
+          "taylorOwns": true,
+          "tracklist": [
+            {
+              "songTitle": "Willow",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Champagne Problems",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Gold Rush",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "'Tis the Damn Season",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Tolerate It",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "No Body, No Crime (feat. Haim)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Happiness",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Dorothea",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Coney Island (feat. The National)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Ivy",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Cowboy like Me",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Long Story Short",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Marjorie",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Closure",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Evermore (feat. Bon Iver)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Right Where You Left Me",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "It's Time to Go",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Midnights",
+          "releaseDate": "2022-10-21",
+          "label": "Republic Records",
+          "taylorOwns": true,
+          "tracklist": [
+            {
+              "songTitle": "Lavender Haze",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Maroon",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Anti-Hero",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Snow on the Beach (feat. Lana Del Ray)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You're on Your Own, Kid",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Midnight Rain",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Question...?",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Vigilante Shit",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Bejeweled",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Labyrinth",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Karma",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Sweet Nothing",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Mastermind",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Great War",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Bigger Than the Whole Sky",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Paris",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "High Infidelity",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Glitch",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Would've, Could've, Should've",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Dear Reader",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Hits Different",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You're on Your Own Kid (strings remix)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Sweet Nothing (piano remix)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Rerecordings",
+      "albums": [
+        {
+          "albumTitle": "Fearless (Taylor's Version)",
+          "releaseDate": "2021-04-09",
+          "label": "Republic Records",
+          "taylorOwns": true,
+          "tracklist": [
+            {
+              "songTitle": "Fearless (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Fifteen (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Love Story (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Hey Stephen (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "White Horse (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You Belong with Me (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Breathe (feat. Colbie Caillat) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Tell Me Why (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You're Not Sorry (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Way I Loved You (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Forever & Always (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Best Day (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Change (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Jump Then Fall (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Untouchable (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Forever & Always (piano version) (Taylor's Version)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Come In with the Rain (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Superstar (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Other Side of the Door (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Today Was a Fairytale (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "You All Over Me (feat. Maren Morris) (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Mr. Perfectly Fine (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "We Were Happy (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "That's When (feat. Keith Urban) (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Don't You (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Bye Bye Baby (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        },
+        {
+          "albumTitle": "Red (Taylor's Version)",
+          "releaseDate": "2021-11-12",
+          "label": "Republic Records",
+          "taylorOwns": true,
+          "tracklist": [
+            {
+              "songTitle": "State of Grace (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Red (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Treacherous (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Knew You Were Trouble (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "All Too Well (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "22 (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Almost Do (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "We are Never Ever Getting Back Together (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Stay Stay Stay (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Last Time (feat. Gary Lightbody) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Holy Ground (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Sad Beautiful Tragic (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Lucky One (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Everything Has Changed (feat. Ed Sheeran) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Starlight (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Begin Again (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Moment I Knew (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Come Back... Be Here (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Girl at Home (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "State of Grace (acoustic version) (Taylor's Version)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Ronan (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Better Man (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Nothing New (feat. Phoebe Bridgers) (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Babe (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Message in a Bottle (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Forever Winter (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Run (feat. Ed Sheeran) (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "The Very First Night (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "All Too Well (10 Minute Version) (From the Vault) (Taylor's Version)",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Extended Plays",
+      "albums": [
+        {
+          "albumTitle": "Beautiful Eyes",
+          "releaseDate": "2008-07-15",
+          "label": "Big Machine Records",
+          "taylorOwns": false,
+          "tracklist": [
+            {
+              "songTitle": "Beautiful Eyes",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Should've Said No (alternate version)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Teardrops on My Guitar (acoustic version)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "Picture to Burn (radio edit)",
+              "alternateVersion": true,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I'm Only Me When I'm with You",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            },
+            {
+              "songTitle": "I Heart ?",
+              "alternateVersion": false,
+              "writers": [],
+              "producers": [],
+              "featuring": [],
+              "motifs": [],
+              "themes": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "collection": "Live Albums",
+      "albums": []
+    },
+    {
+      "collection": "Songs for Film",
+      "albums": []
+    },
+    {
+      "collection": "Featured On",
+      "albums": []
+    },
+    {
+      "collection": "Writer On",
+      "albums": []
+    }
+  ]
+}
