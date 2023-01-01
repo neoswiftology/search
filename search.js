@@ -4206,7 +4206,8 @@ function filterByCollection(collections) {
 }
 
 // add accordian functionality to filter screen
-document.getElementById("filterAcc").addEventListener("click", function () {
+const filterAcc = document.getElementById("filterAcc");
+filterAcc.addEventListener("click", function () {
   /* Toggle between hiding and showing the active panel */
   var panel = this.nextElementSibling;
   var caret = this.lastChild;
@@ -4222,7 +4223,6 @@ document.getElementById("filterAcc").addEventListener("click", function () {
 // function to display results
 function displayResults() {
   const filterScreen = document.getElementById("filterScreen");
-  const filterAcc = document.getElementById("filterAcc");
   const filterPanel = document.getElementById("filterPanel");
   const resultsScreen = document.getElementById("resultsScreen");
   const resultsDisp = document.getElementById("resultsDisplay");
