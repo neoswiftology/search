@@ -1583,9 +1583,9 @@ const catalog = {
                 "Taylor Swift",
                 "Max Martin",
                 "Shellback",
-                "Oscar Görres"
+                "Oscar GÃ¶rres"
               ],
-              producers: ["Max Martin", "Shellback", "Oscar Görres"],
+              producers: ["Max Martin", "Shellback", "Oscar GÃ¶rres"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -2545,9 +2545,9 @@ const catalog = {
               notes: ""
             },
             {
-              songTitle: "Willow (Dancing Witch Version – Elvira Remix)",
+              songTitle: "Willow (Dancing Witch Version â€“ Elvira Remix)",
               writers: ["Taylor Swift", "Aaron Dessner"],
-              producers: ["Elvira Anderfjärd"],
+              producers: ["Elvira AnderfjÃ¤rd"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -2562,7 +2562,7 @@ const catalog = {
             {
               songTitle: "Willow (Lonely Witch Version)",
               writers: ["Taylor Swift", "Aaron Dessner"],
-              producers: ["Elvira Anderfjärd"],
+              producers: ["Elvira AnderfjÃ¤rd"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -2603,7 +2603,7 @@ const catalog = {
               writers: [
                 "Taylor Swift",
                 "Jack Antonoff",
-                "Zoë Kravitz",
+                "ZoÃ« Kravitz",
                 "Mark Spears",
                 "Jahaan Sweet",
                 "Sam Dew"
@@ -3386,7 +3386,7 @@ const catalog = {
             {
               songTitle: "Love Story (Elvira Remix)",
               writers: ["Taylor Swift"],
-              producers: ["Elvira Anderfjärd", "Christopher Rowe"],
+              producers: ["Elvira AnderfjÃ¤rd", "Christopher Rowe"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -3683,7 +3683,7 @@ const catalog = {
             {
               songTitle: "Girl at Home (Taylor's Version)",
               writers: ["Taylor Swift"],
-              producers: ["Elvira Anderfjärd"],
+              producers: ["Elvira AnderfjÃ¤rd"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -3775,7 +3775,7 @@ const catalog = {
               songTitle:
                 "Message in a Bottle (From the Vault) (Taylor's Version)",
               writers: ["Taylor Swift", "Max Martin", "Shellback"],
-              producers: ["Elvira Anderfjärd", "Shellback"],
+              producers: ["Elvira AnderfjÃ¤rd", "Shellback"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -3837,7 +3837,7 @@ const catalog = {
             {
               songTitle:
                 "The Very First Night (From the Vault) (Taylor's Version)",
-              writers: ["Taylor Swift", "Amund Bjørklund", "Espen Lind"],
+              writers: ["Taylor Swift", "Amund BjÃ¸rklund", "Espen Lind"],
               producers: ["Espionage", "Tim Blacksmith", "Danny D"],
               featuring: [],
               motifs: [],
@@ -4205,24 +4205,10 @@ function filterByCollection(collections) {
   }
 }
 
-// add accordian functionality to filter screen
-const filterAcc = document.getElementById("filterAcc");
-filterAcc.addEventListener("click", function () {
-  /* Toggle between hiding and showing the active panel */
-  var panel = this.nextElementSibling;
-  var caret = this.lastChild;
-  if (panel.style.display === "flex") {
-    panel.style.display = "none";
-    caret.style.transform = "rotate(180deg)";
-  } else {
-    panel.style.display = "flex";
-    caret.style.transform = "none";
-  }
-});
-
 // function to display results
 function displayResults() {
   const filterScreen = document.getElementById("filterScreen");
+  const filterAcc = document.getElementById("filterAcc");
   const filterPanel = document.getElementById("filterPanel");
   const resultsScreen = document.getElementById("resultsScreen");
   const resultsDisp = document.getElementById("resultsDisplay");
@@ -4279,8 +4265,6 @@ function displayResults() {
       }
     });
   }
-  filterAcc.lastChild.style.transform = "rotate(180deg)";
-  filterPanel.style.display = "none";
   resultsDisp.style.display = "flex";
 }
 
