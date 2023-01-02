@@ -2545,9 +2545,9 @@ const catalog = {
               notes: ""
             },
             {
-              songTitle: "Willow (Dancing Witch Version â€“ Elvira Remix)",
+              songTitle: "Willow (Dancing Witch Version &mdash; Elvira Remix)",
               writers: ["Taylor Swift", "Aaron Dessner"],
-              producers: ["Elvira AnderfjÃ¤rd"],
+              producers: ["Elvira Anderfj&#228;rd"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -2562,7 +2562,7 @@ const catalog = {
             {
               songTitle: "Willow (Lonely Witch Version)",
               writers: ["Taylor Swift", "Aaron Dessner"],
-              producers: ["Elvira AnderfjÃ¤rd"],
+              producers: ["Elvira Anderfj&#228;rd"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -3386,7 +3386,7 @@ const catalog = {
             {
               songTitle: "Love Story (Elvira Remix)",
               writers: ["Taylor Swift"],
-              producers: ["Elvira AnderfjÃ¤rd", "Christopher Rowe"],
+              producers: ["Elvira Anderfj&#228;rd", "Christopher Rowe"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -3683,7 +3683,7 @@ const catalog = {
             {
               songTitle: "Girl at Home (Taylor's Version)",
               writers: ["Taylor Swift"],
-              producers: ["Elvira AnderfjÃ¤rd"],
+              producers: ["Elvira Anderfj&#228;rd"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -3775,7 +3775,7 @@ const catalog = {
               songTitle:
                 "Message in a Bottle (From the Vault) (Taylor's Version)",
               writers: ["Taylor Swift", "Max Martin", "Shellback"],
-              producers: ["Elvira AnderfjÃ¤rd", "Shellback"],
+              producers: ["Elvira Anderfj&#228;rd", "Shellback"],
               featuring: [],
               motifs: [],
               themes: [],
@@ -3837,7 +3837,7 @@ const catalog = {
             {
               songTitle:
                 "The Very First Night (From the Vault) (Taylor's Version)",
-              writers: ["Taylor Swift", "Amund BjÃ¸rklund", "Espen Lind"],
+              writers: ["Taylor Swift", "Amund Bj&#246;rklund", "Espen Lind"],
               producers: ["Espionage", "Tim Blacksmith", "Danny D"],
               featuring: [],
               motifs: [],
@@ -4134,11 +4134,9 @@ function searchProducer(query) {
   resultsArr.length = 0;
   for (let i = 0; i < songArr.length; i++) {
     let song = songArr[i];
-    let producers = song.producers;
-    for (let i = 0; i < producers.length; i++) {
-      if (producers[i].toUpperCase().indexOf(query.toUpperCase()) > -1) {
-        resultsArr.push(song);
-      }
+    let producers = song.producers.join(", ");
+    if (producers.toUpperCase().indexOf(query.toUpperCase()) > -1) {
+      resultsArr.push(song);
     }
   }
 }
@@ -4148,11 +4146,9 @@ function searchWriter(query) {
   resultsArr.length = 0;
   for (let i = 0; i < songArr.length; i++) {
     let song = songArr[i];
-    let writers = song.writers;
-    for (let i = 0; i < writers.length; i++) {
-      if (writers[i].toUpperCase().indexOf(query.toUpperCase()) > -1) {
-        resultsArr.push(song);
-      }
+    let writers = song.writers.join(", ");
+    if (writers.toUpperCase().indexOf(query.toUpperCase()) > -1) {
+      resultsArr.push(song);
     }
   }
 }
@@ -4298,6 +4294,7 @@ function submit() {
         break;
       case "producers":
         searchProducer(searchQuery);
+        break;
       default:
         searchSongTitle(searchQuery);
     }
