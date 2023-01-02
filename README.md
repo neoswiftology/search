@@ -1,7 +1,10 @@
 # Swift Song Seach
 Swift Song Search is a pure HTML, CSS, and Javascript search engine of Taylor Swift's catalog. It is currently managed entirely by one person (hi I'm syd), but I hope to add collaborators in the future as the project grows, as I have pretty grand ambitions for this project.
-## Current Version: 1.0.0
-Released: 1/1/23
+## Current Version: 1.0.1
+Released: 1/2/23
+### Patches
+- Fix producer search glitch
+- Fix duplicate result glitch
 ### Catalog
 - All studio albums with some remixes
 - Both rerecordings, excluding All Too Well (10 Minute Version) (Sad Girl Autumn Version) and All Too Well (10 Minute Version) (Short Film Version)
