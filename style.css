@@ -103,10 +103,6 @@ main {
   width: 100%;
 }
 
-#filterAcc i {
-  margin-left: 0.5em;
-}
-
 #filterPanel {
   display: flex;
   flex-direction: column;
