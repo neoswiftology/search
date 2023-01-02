@@ -179,6 +179,7 @@ main {
 }
 
 footer {
+  align-self: flex-end;
   display: flex;
   justify-content: center;
   color: white;
